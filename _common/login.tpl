@@ -2,6 +2,8 @@
 <head>
 <title>Globalworks Phones - {$PAGE_NAME}</title>
 <!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">-->
+    <link href="/themes/bootstrap/twitter-bootstrap/docs/assets/css/bootstrap.css" rel="stylesheet">
+    <script src="/themes/bootstrap/twitter-bootstrap/docs/assets/js/bootstrap.js"></script>
 </head>
 
 <body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
